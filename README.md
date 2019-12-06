@@ -1,14 +1,13 @@
-===========================================
+
+## ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection
 <br />
-ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection
-<br />
-===========================================
+======================================================================================
 
 
 <br />
 <br />
 
-# Depthwise-Separable-Convolutional-Neural-Network-for-Skin-Lesion-Classification
+### Depthwise-Separable-Convolutional-Neural-Network-for-Skin-Lesion-Classification
 Codes for the papaer "Depthwise Separable Convolutional Neural Network for Skin Lesion Classification"
 
 ### Paper Link
